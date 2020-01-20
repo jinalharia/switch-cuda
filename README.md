@@ -41,3 +41,10 @@ The following CUDA installations have been found (in '/usr/local'):
 $ source switch-cuda.sh 9.0
 Switched to CUDA 9.0.
 ```
+
+Other Useful links
+--------
+
+Having multiple versions of the cuda library on the same machine
+
+https://blog.kovalevskyi.com/multiple-version-of-cuda-libraries-on-the-same-machine-b9502d50ae77
